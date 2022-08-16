@@ -1,0 +1,6 @@
+Alunos: 500
+Anúncios: 274
+Orgânico: 226
+Site: 73
+Youtube: 155
+Instagram ou facebook: 24
